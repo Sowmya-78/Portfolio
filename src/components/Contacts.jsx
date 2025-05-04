@@ -22,7 +22,7 @@ export default function Contacts() {
 
         <p className="flex justify-center items-center gap-3">
           <FaPhoneAlt className="text-indigo-600" />
-          +91 98765 43210
+          +1 33465 43210
         </p>
 
         <p className="flex justify-center items-center gap-3">

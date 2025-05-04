@@ -1,5 +1,5 @@
 import React from "react";
-import myPhoto from "../assets/passport size photo.jpg"; // Update with your actual photo path
+import myPhoto from "../assets/Sowmi.jpg"; // Update with your actual photo path
 
 export default function About() {
   return (
